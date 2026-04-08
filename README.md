@@ -44,8 +44,8 @@ Created custom measures for:
 - Profitability %  
 - Sales Performance Rating
 --------
-![Product SCD Flow](https://github.com/AhmedNoaman01/Sales-Dashboard/blob/main/Image/Capture.PNG)
+![Product SCD Flow](https://github.com/AhmedNoaman01/Sales-Dashboard-Power-Bi/blob/main/Image/Capture.PNG)
 
-![Product SCD Flow](https://github.com/AhmedNoaman01/Sales-Dashboard/blob/main/Image/Capture2.PNG)
+![Product SCD Flow](https://github.com/AhmedNoaman01/Sales-Dashboard-Power-Bi/blob/main/Image/Capture2.PNG)
 
-![Product SCD Flow](https://github.com/AhmedNoaman01/Sales-Dashboard/blob/main/Image/Capture3.PNG)
+![Product SCD Flow](https://github.com/AhmedNoaman01/Sales-Dashboard-Power-Bi/blob/main/Image/Capture3.PNG)
